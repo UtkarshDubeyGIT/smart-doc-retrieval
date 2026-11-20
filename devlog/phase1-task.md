@@ -1,22 +1,22 @@
 # Task Tracking - Smart Document Retrieval and Ranking System
 
 - [x] Initial environment setup & GitHub authentication verification <!-- id: 0 -->
-- [/] Core Retrieval Engine Implementation <!-- id: 1 -->
+- [x] Core Retrieval Engine Implementation <!-- id: 1 -->
   - [x] Text preprocessor (tokenization, stop words, stemming) <!-- id: 1.1 -->
-  - [ ] TF-IDF Vectorizer & Cosine Similarity engine <!-- id: 1.2 -->
-  - [ ] Boolean Query Parser & Filter (`AND`, `OR`) <!-- id: 1.3 -->
-  - [ ] Rocchio Relevance Feedback Engine ($\alpha, \beta, \gamma$) <!-- id: 1.4 -->
-  - [ ] Comparative Analysis & Evaluation Metrics <!-- id: 1.5 -->
-- [ ] Corpus & Dataset Ingestion <!-- id: 2 -->
-  - [ ] Default multi-domain document collection (science, AI, history, sports, tech) <!-- id: 2.1 -->
-  - [ ] Dynamic custom document import (files/text) <!-- id: 2.2 -->
-- [ ] User Interfaces <!-- id: 3 -->
-  - [ ] Interactive Web UI (Streamlit) for Q1 & Q2 <!-- id: 3.1 -->
-  - [ ] CLI tool (`cli.py`) for automated/terminal testing <!-- id: 3.2 -->
-- [ ] Testing & Verification <!-- id: 4 -->
-  - [ ] Unit tests for TF-IDF, Cosine Similarity, Boolean matching, and Rocchio feedback <!-- id: 4.1 -->
-  - [ ] Execution of comparative analysis before and after feedback <!-- id: 4.2 -->
-- [ ] Packaging & GitHub Deployment <!-- id: 5 -->
-  - [ ] Devlog artifacts copying to `[project_root]/devlog/` <!-- id: 5.1 -->
-  - [ ] Comprehensive README.md with math formulas, setup guide, and usage examples <!-- id: 5.2 -->
-  - [ ] Initialize git repo, commit, create GitHub repo via `gh` CLI, and push <!-- id: 5.3 -->
+  - [x] TF-IDF Vectorizer & Cosine Similarity engine <!-- id: 1.2 -->
+  - [x] Boolean Query Parser & Filter (`AND`, `OR`) <!-- id: 1.3 -->
+  - [x] Rocchio Relevance Feedback Engine ($\alpha, \beta, \gamma$) <!-- id: 1.4 -->
+  - [x] Comparative Analysis & Evaluation Metrics <!-- id: 1.5 -->
+- [x] Corpus & Dataset Ingestion <!-- id: 2 -->
+  - [x] Default multi-domain document collection (science, AI, history, sports, tech) <!-- id: 2.1 -->
+  - [x] Dynamic custom document import (files/text) <!-- id: 2.2 -->
+- [x] User Interfaces <!-- id: 3 -->
+  - [x] Interactive Web UI (Streamlit) for Q1 & Q2 <!-- id: 3.1 -->
+  - [x] CLI tool (`cli.py`) for automated/terminal testing <!-- id: 3.2 -->
+- [x] Testing & Verification <!-- id: 4 -->
+  - [x] Unit tests for TF-IDF, Cosine Similarity, Boolean matching, and Rocchio feedback <!-- id: 4.1 -->
+  - [x] Execution of comparative analysis before and after feedback <!-- id: 4.2 -->
+- [x] Packaging & GitHub Deployment <!-- id: 5 -->
+  - [x] Devlog artifacts copying to `[project_root]/devlog/` <!-- id: 5.1 -->
+  - [x] Comprehensive README.md with math formulas, setup guide, and usage examples <!-- id: 5.2 -->
+  - [x] Initialize git repo, commit, create GitHub repo via `gh` CLI, and push <!-- id: 5.3 -->
